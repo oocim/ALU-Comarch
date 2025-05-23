@@ -22,9 +22,6 @@ This project is a software simulation of a **4-bit Arithmetic Logic Unit (ALU)**
 
 ## 🧩 Functional Modules
 
-### `alu.py`
-
-- Defines the `ALU` class
 - Contains modular functions for:
   - `add(a, b)`
   - `subtract(a, b)`
@@ -33,24 +30,10 @@ This project is a software simulation of a **4-bit Arithmetic Logic Unit (ALU)**
   - `bitwise_xor(a, b)`
   - `bitwise_not(a)`
 - Handles overflow and 4-bit constraints
-
-### `main.py`
-
 - Handles input/output operations
 - Accepts binary strings for A and B
 - Allows user to select operation
 - Calls the corresponding function from `ALU` class
-
----
-
-## 🗂️ Project Structure
-
-```
-4bit-alu/
-├── alu.py         # ALU class with all core logic functions
-├── main.py        # Console interface for using the ALU
-└── README.md      # Project documentation
-```
 
 ---
 
