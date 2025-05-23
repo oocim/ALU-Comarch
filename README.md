@@ -58,18 +58,6 @@ This project is a software simulation of a **4-bit Arithmetic Logic Unit (ALU)**
 
 ---
 
-## 🧪 Sample Input & Output
-
-```bash
-Enter 4-bit input A: 0101
-Enter 4-bit input B: 0011
-Choose operation (+, -, &, |, ^, ~): +
-Result: 1000
-Overflow: No
-```
-
----
-
 ## 💻 System Requirements
 
 | Requirement     | Specification                |
